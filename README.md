@@ -41,7 +41,7 @@ Examples
   set-dns = 0
   pppd-use-peerdns = 0
   # X509 certificate sha256 sum, trust only this one!
-  trusted-cert = e46d4aff08ba6914e64daa85bc6112a422fa7ce16631bff0b592a28556f993db
+  trusted-cert = e46d4aff0ddd8ba6914e64daa85bc6112a422fa7ce16631bff0b592a28556f993db
   ```
 
 
